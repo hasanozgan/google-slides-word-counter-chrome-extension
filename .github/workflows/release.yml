@@ -24,5 +24,5 @@ jobs:
           client-id: ${{ secrets.CLIENT_ID }}
           client-secret: ${{ secrets.CLIENT_SECRET }}
           file-name: './release/extension.zip'
-          #app-id: 'xzc12xzc21cx23'
+          app-id: 'afhlbocnlpkgcdannmmlmagbhknnmcep'
           publish: true
