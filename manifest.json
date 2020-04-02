@@ -1,6 +1,6 @@
 {
   "name": "Google Slides Word Counter",
-  "version": "0.0.1",
+  "version": "__version__",
   "default_locale": "en",
   "manifest_version": 2,
   "icons": {
